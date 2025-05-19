@@ -1,4 +1,4 @@
-baseURL: "https://FrankMengZJ.github.io/"
+baseURL: "https://examplesite.com/"
 title: ExampleSite
 pagination:
   pageSize: 5
