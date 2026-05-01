@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://frankmengzj.github.io/sitemap.xml
+Sitemap: https://FrankMengZJ.github.io/sitemap.xml
