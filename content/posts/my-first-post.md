@@ -4,6 +4,7 @@ draft: true
 title: 'My First Post'
 tags:
   - Test
+draft: false
 ---
 ## Introduction
 
