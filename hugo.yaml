@@ -116,6 +116,10 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
+    - identifier: posts
+      name: posts
+      url: /posts/       # Make sure this matches your folder name in /content
+      weight: 5  
     - identifier: categories
       name: categories
       url: /categories/
